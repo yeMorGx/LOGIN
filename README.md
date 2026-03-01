@@ -9,6 +9,7 @@ Sistema de autenticação Full Stack com React, Node.js, Prisma e MongoDB.
 <img src="/imgs/login.png" width="600"/>
 <img src="/imgs/register.png" width="600"/>
 <img src="/imgs/dashboard.png" width="600"/>
+<img src="/imgs/preview.gif" width="600"/>
 
 ---
 
