@@ -65,7 +65,7 @@ return (
             </form>
             <div className="mt-10 flex gap-2">
                 <p className="cursor-default opacity-20">Don't have an account?</p>
-                <Link className="opacity-100 hover:underline" to="./dashboard">
+                <Link className="opacity-100 hover:underline" to="/signup">
                     Register now
                 </Link>
             </div>
